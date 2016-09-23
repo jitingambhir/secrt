@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Jhip Demo App
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cis
+Implementation-Vendor-Id: com.mycompany.myapp
+Build-Jdk: 1.8.0_72-internal
+Implementation-URL: http://projects.spring.io/spring-boot/jhip-demo-ap
+ p/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

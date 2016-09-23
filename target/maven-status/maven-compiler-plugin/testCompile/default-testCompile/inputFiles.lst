@@ -1,0 +1,11 @@
+/home/cis/workspace/jhipDemoApp/src/test/java/com/mycompany/myapp/repository/CustomSocialUsersConnectionRepositoryIntTest.java
+/home/cis/workspace/jhipDemoApp/src/test/java/com/mycompany/myapp/web/rest/UserResourceIntTest.java
+/home/cis/workspace/jhipDemoApp/src/test/java/com/mycompany/myapp/web/rest/AuditResourceIntTest.java
+/home/cis/workspace/jhipDemoApp/src/test/java/com/mycompany/myapp/cucumber/stepdefs/StepDefs.java
+/home/cis/workspace/jhipDemoApp/src/test/java/com/mycompany/myapp/cucumber/stepdefs/UserStepDefs.java
+/home/cis/workspace/jhipDemoApp/src/test/java/com/mycompany/myapp/cucumber/CucumberTest.java
+/home/cis/workspace/jhipDemoApp/src/test/java/com/mycompany/myapp/security/SecurityUtilsUnitTest.java
+/home/cis/workspace/jhipDemoApp/src/test/java/com/mycompany/myapp/web/rest/AccountResourceIntTest.java
+/home/cis/workspace/jhipDemoApp/src/test/java/com/mycompany/myapp/service/SocialServiceIntTest.java
+/home/cis/workspace/jhipDemoApp/src/test/java/com/mycompany/myapp/web/rest/TestUtil.java
+/home/cis/workspace/jhipDemoApp/src/test/java/com/mycompany/myapp/service/UserServiceIntTest.java
